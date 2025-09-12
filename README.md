@@ -28,4 +28,4 @@ In contrast, Asia & Oceania and East Africa show intermediate prevalence ratios,
 ### Recommendations
 These findings underscore the critical role of molecular diagnostics, such as PCR, in accurately assessing the true malaria burden, particularly in regions like South America where submicroscopic infections are highly prevalent.
 
-[View project on RPubs](https://rpubs.com/Akinjide/1343693)
+[View project on RPubs](https://rpubs.com/Akinjide/1343701)
