@@ -30,7 +30,7 @@ These findings underscore the critical role of molecular diagnostics, such as PC
 
 [View project on RPubs](https://rpubs.com/Akinjide/1343701)
 
-
+---
 
 ## Malaria Detector Project II
 ---
