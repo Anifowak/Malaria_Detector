@@ -1,4 +1,4 @@
-## Malaria Detector Project
+## Malaria Detector Project I
 
 ---
 
@@ -29,3 +29,21 @@ In contrast, Asia & Oceania and East Africa show intermediate prevalence ratios,
 These findings underscore the critical role of molecular diagnostics, such as PCR, in accurately assessing the true malaria burden, particularly in regions like South America where submicroscopic infections are highly prevalent.
 
 [View project on RPubs](https://rpubs.com/Akinjide/1343701)
+
+
+
+## Malaria Detector Project II
+---
+
+Analysis of submicroscopic Plasmodium falciparum infections (infections that cannot be detected using standard light microscopy because the parasite density in the blood is too low) using microscopy and PCR datasets, including the computation of the percentage of infections missed by microscopy to highlight under-detection, Cohen’s kappa to measure agreement between the two methods, sensitivity, specificity, PPV, and NPV to evaluate microscopy accuracy against PCR, and stratified summaries of prevalence ratios and missed infections across regions to reveal geographic differences in detection efficiency.
+
+### Project Overview
+This project investigates submicroscopic Plasmodium falciparum infections—infections that are undetectable by standard light microscopy due to low parasite density—by comparing microscopy and PCR detection across multiple regions. Using a publicly available dataset, the study quantifies the proportion of infections missed by microscopy, evaluates agreement between detection methods with Cohen’s kappa, assesses microscopy accuracy through sensitivity, specificity, PPV, and NPV, and examines regional differences in prevalence ratios and missed infections. The analysis provides insight into the limitations of conventional microscopy, highlights hidden malaria reservoirs, and informs public health strategies for improved detection and surveillance.
+
+### Tasks
+- Percentage of infections missed by microscopy → which adds a clear public health message 
+- Cohen’s kappa → quantitative measure of agreement between microscopy and PCR 
+- Sensitivity, specificity, PPV, NPV → standard epidemiological metrics 
+- Stratified summaries of prevalence ratios and missed infections by region → makes regional comparisons more explicit
+
+[View project on RPubs](https://rpubs.com/Akinjide/1345793)
